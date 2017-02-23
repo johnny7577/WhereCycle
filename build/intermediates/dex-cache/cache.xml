@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-7.3.0_0ccf219dcfbe875b8b3dcc50abfc5e5a0ec6bb96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-7.3.0_1b5a950382c5f8486c0e4af3869b6180f1b351d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-7.3.0_d839f4ebd78352029f7e0e8ef7334492703a297b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_fa990fbee056ad5108f47223b35857f4a91e5d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.3.0_15395ba3970cb3cd04d765f7deeff8e552b8d697/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-7.3.0_1d8f89c2bda4bbd14fdd4f0753d82a2b981b0676.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_9032fcedaca5910c2c6321f56fdea41a5d52ed55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-7.3.0_22656eb9217e38a550767ca1f62c511705a7cab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-7.3.0_5d19cf36e993b66673fe5e397fbd643739d0fa02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appstate-7.3.0_5c6bce04557e4de4eeebe6b32a85a554f4ea3c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-7.3.0_d839f4ebd78352029f7e0e8ef7334492703a297b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-7.3.0_5c4077cb450c64595c6bdd97b7ef6255ebd59320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.3.0_15395ba3970cb3cd04d765f7deeff8e552b8d697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appstate-7.3.0_5c6bce04557e4de4eeebe6b32a85a554f4ea3c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_9032fcedaca5910c2c6321f56fdea41a5d52ed55/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-7.3.0_f82b0d28c54f59ba3a86e2e71fbdd9c48ea3f55b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-7.3.0_071031be521fe0c59928a2a3899ce54615ce5add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-7.3.0_2691790a89212023bb02c0776aa8f9769d2b88e7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-7.3.0_5c4077cb450c64595c6bdd97b7ef6255ebd59320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="44d9b56dee05d59bd19d90538fd778d22dea870c">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_04e3184a2800880be0c1506c4e3e7d13d3eeb4fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-7.3.0_aa47ead017a0cce75af3ac8981c1cb6cf2bd9738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.3.0_05f1d6e2e72bce69516eba70d3ef7523b3a37f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-7.3.0_a23128fecda25d428b13784059bacd34e1efe548.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_9cc89407955cc2219c6a8f9cd92be0be48b2125a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-7.3.0_1b5a950382c5f8486c0e4af3869b6180f1b351d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-7.3.0_7540a3372947543820cc8b6c8687de138397eb34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_9cc89407955cc2219c6a8f9cd92be0be48b2125a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.3.0_5d19cf36e993b66673fe5e397fbd643739d0fa02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-7.3.0_0af2574f7e00adbb93d682882e29fed11b580e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-7.3.0_aa47ead017a0cce75af3ac8981c1cb6cf2bd9738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.3.0_05f1d6e2e72bce69516eba70d3ef7523b3a37f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-7.3.0_a96cbbe8844345d0d047b87f45716f6f12f237cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0_fa990fbee056ad5108f47223b35857f4a91e5d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-7.3.0_dbdaca553cb4421e0d48ca234b16972b2d81c810.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-7.3.0_0af2574f7e00adbb93d682882e29fed11b580e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-7.3.0_22656eb9217e38a550767ca1f62c511705a7cab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.0_1a49e517f9c4a8ab45819e7add0272b6eaf59281.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="416aedd986f2cf29a618d725c00d002559ced0c6">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_04e3184a2800880be0c1506c4e3e7d13d3eeb4fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appstate-7.3.0_5c6bce04557e4de4eeebe6b32a85a554f4ea3c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-7.3.0_15395ba3970cb3cd04d765f7deeff8e552b8d697.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-7.3.0_071031be521fe0c59928a2a3899ce54615ce5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-7.3.0_0ccf219dcfbe875b8b3dcc50abfc5e5a0ec6bb96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.3.0_5d19cf36e993b66673fe5e397fbd643739d0fa02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-7.3.0_2691790a89212023bb02c0776aa8f9769d2b88e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-7.3.0_f82b0d28c54f59ba3a86e2e71fbdd9c48ea3f55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2c7500f4de8aad5df36d25086f1832dc1606a8e">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f123fc96df273a00a9823b9faaae24264540e809/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.0_9032fcedaca5910c2c6321f56fdea41a5d52ed55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-7.3.0_1d8f89c2bda4bbd14fdd4f0753d82a2b981b0676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ba238931f022c9b2e122385c290e24593a37c16e">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f123fc96df273a00a9823b9faaae24264540e809/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-7.3.0_5c4077cb450c64595c6bdd97b7ef6255ebd59320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-7.3.0_d839f4ebd78352029f7e0e8ef7334492703a297b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-7.3.0_071031be521fe0c59928a2a3899ce54615ce5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-7.3.0_a23128fecda25d428b13784059bacd34e1efe548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-7.3.0_f82b0d28c54f59ba3a86e2e71fbdd9c48ea3f55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-7.3.0_0ccf219dcfbe875b8b3dcc50abfc5e5a0ec6bb96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-7.3.0_1d8f89c2bda4bbd14fdd4f0753d82a2b981b0676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-7.3.0_2691790a89212023bb02c0776aa8f9769d2b88e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0_9cc89407955cc2219c6a8f9cd92be0be48b2125a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-7.3.0_0af2574f7e00adbb93d682882e29fed11b580e0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-7.3.0_dbdaca553cb4421e0d48ca234b16972b2d81c810/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-7.3.0_05f1d6e2e72bce69516eba70d3ef7523b3a37f36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_1a49e517f9c4a8ab45819e7add0272b6eaf59281/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-7.3.0_a23128fecda25d428b13784059bacd34e1efe548/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-7.3.0_aa47ead017a0cce75af3ac8981c1cb6cf2bd9738.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-7.3.0_a96cbbe8844345d0d047b87f45716f6f12f237cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_1a49e517f9c4a8ab45819e7add0272b6eaf59281/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-7.3.0_22656eb9217e38a550767ca1f62c511705a7cab6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-7.3.0_7540a3372947543820cc8b6c8687de138397eb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-7.3.0_a96cbbe8844345d0d047b87f45716f6f12f237cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-7.3.0_1b5a950382c5f8486c0e4af3869b6180f1b351d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_fa990fbee056ad5108f47223b35857f4a91e5d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-7.3.0_7540a3372947543820cc8b6c8687de138397eb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/johnnyhung/Project/WhereCycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-7.3.0_dbdaca553cb4421e0d48ca234b16972b2d81c810/classes.dex" />
+    </item>
+
+</items>

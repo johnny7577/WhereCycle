@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快速地點標記</string>
+    <string name="record_location">紀錄地點</string>
+    <string name="navigate">簡易導航</string>
+    <string name="park_location">停放地點</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2518551331927892/7993535560</string>
+</resources>
