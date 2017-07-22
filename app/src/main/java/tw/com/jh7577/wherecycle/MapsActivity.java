@@ -133,8 +133,6 @@ public class MapsActivity extends AppCompatActivity implements GoogleApiClient.C
                 }
             }
         });
-
-        //merge
     }
 
     @Override
